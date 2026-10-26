@@ -1,7 +1,6 @@
 # Personal Budget Tracker
 
-#### Video Demo: [<PASTE YOUR YOUTUBE VIDEO URL HERE>](https://youtu.be/qRiZRA_Mq6Y)
-
+#### Video Demo: https://youtu.be/qRiZRA_Mq6Y
 #### Description:
 
 The Personal Budget Tracker is a Python command-line application that helps users to organize their income, expenses, and monthly spending goals. I created this so that I can apply the concepts that I have learned in my Programming in Python course to a practical problem, which is understanding where money comes from, where it goes, and how much is available. Instead of manually calculating every purchase, a user can enter transactions and receive a simple summary. This application is designed for someone who wants a straightforward way to monitor spending without having to learn complicated financial software.
