@@ -1,6 +1,6 @@
 # Personal Budget Tracker
 
-#### Video Demo: <PASTE YOUR YOUTUBE VIDEO URL HERE>
+#### Video Demo: [<PASTE YOUR YOUTUBE VIDEO URL HERE>](https://youtu.be/qRiZRA_Mq6Y)
 
 #### Description:
 
